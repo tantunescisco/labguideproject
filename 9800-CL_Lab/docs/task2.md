@@ -1,7 +1,7 @@
 # Task 2: Configure the basic 9800-CL settings
 
 
-## Enter subtitle here
+## Configuration via CLI
 
 ### Step 1: 
 
